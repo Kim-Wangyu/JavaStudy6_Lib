@@ -9,7 +9,11 @@ public class StringMain {
 //		ss.lengthTest();
 	//	ss.subStringTest();
 		ss.subStringEx1();
-
+		//ss.rePlaceTest();
+	//	ss.caseTest();
+		//ss.valueTest();
+		
+		//ss.splitTest();
 	}
 
 }
